@@ -8,7 +8,7 @@
 <?import javafx.scene.text.Text?>
 
 
-<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="461.0" prefWidth="555.0" type="AnchorPane" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo13dz.HelloController">
+<fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="461.0" prefWidth="555.0" type="AnchorPane" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo13dz.Controller">
    <children>
       <Button layoutX="252.0" layoutY="268.0" mnemonicParsing="false" onAction="#GetWeatherData" text="Search" />
       <Label disable="true" layoutX="153.0" layoutY="204.0" prefHeight="26.0" prefWidth="277.0" text="*Select the city you want to know about">
